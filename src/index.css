@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .container {
+    @apply w-[1240px];
+  }
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.sidebarBlock2::-webkit-scrollbar {
+  width: 10px;
+}
+
+.sidebarBlock2::-webkit-scrollbar-thumb {
+  width: 10px;
+  background: #d5d6d5;
+  border-radius: 50px;
+}

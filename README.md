@@ -23,7 +23,7 @@
 
 `Проект `
 
-- `Ссылка на макт : https://www.figma.com/file/V80awgv4wfQ189OXRiA1Nj/Qubit.-%2B-(Copy)?node-id=1%3A743&mode=dev`
+- [Ссылка на макт](<https://www.figma.com/file/V80awgv4wfQ189OXRiA1Nj/Qubit.-%2B-(Copy)?node-id=1%3A743&mode=dev>)
 - Tasks:
 
 1.  Разбить на компоненты и назвать их +
@@ -80,8 +80,8 @@
 1. Сверстать этот макет с помощью фреймворка `tailwindcss`
 2. Сделать маршрутизацию сайта
 3. Использовать api для работы с асинхроными запросами
-4. `https://jsonplaceholder.typicode.com/comments`
-5. `https://dummyjson.com/`
+4. [API] (https://jsonplaceholder.typicode.com/comments)
+5. [API] (https://dummyjson.com/)
 
 Давайте пока сделаем верстку
 

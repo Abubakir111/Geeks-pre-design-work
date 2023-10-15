@@ -5,7 +5,7 @@ import Easy from './components/Base/main/Easy/Easy';
 import Home from './components/Base/main/Home/Home';
 import Qubit from './components/Base/main/Qubit/Qubit';
 import Trusted from './components/Base/main/Trusted/Trusted';
-import Footer from './components/Base/footer/Footer';
+import Footer from './components/Base/Footer/Footer';
 
 function App() {
   return (

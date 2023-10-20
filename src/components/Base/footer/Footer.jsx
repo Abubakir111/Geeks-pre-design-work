@@ -148,7 +148,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="text-white w-full ">
-          <div className="flex gap-[456px]">
+          <div className="flex gap-[456px] items-center">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="20"
